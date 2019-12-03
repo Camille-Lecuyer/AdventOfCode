@@ -1,0 +1,7 @@
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\bin\Debug\AdventCalendar.exe.config
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\bin\Debug\AdventCalendar.exe
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\bin\Debug\AdventCalendar.pdb
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\obj\Debug\AdventCalendar.csprojAssemblyReference.cache
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\obj\Debug\AdventCalendar.csproj.CoreCompileInputs.cache
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\obj\Debug\AdventCalendar.exe
+C:\Users\T-Developer\source\repos\AdventCalendar\AdventCalendar\obj\Debug\AdventCalendar.pdb
