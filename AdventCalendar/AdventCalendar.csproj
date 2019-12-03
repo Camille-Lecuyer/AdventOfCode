@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAY1\FuelOperation.cs" />
+    <Compile Include="DAY2\GravityAssist.cs" />
+    <Compile Include="DAY2\MoonGravity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DAY1\Text.cs" />

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdventCalendar.DAY2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +11,14 @@ namespace AdventCalendar
     {
         static void Main(string[] args)
         {
+            var x = new MoonGravity();
+            x.findAnswer();
+            
+            /*
+             * Day 1 Main
             var x = new Text();
             Console.WriteLine(x.calculateTotal());
-            Console.ReadKey();
+            Console.ReadKey();*/
         }
     }
 }
