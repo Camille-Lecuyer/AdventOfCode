@@ -17,10 +17,6 @@ namespace AdventCalendar
             {
                 digit = digit + (more / 3 - 2);
                 more = more / 3 - 2;
-                if (getFuelForMass(more) <= 0)
-                {
-                    break;
-                }
             }
             fuelNeeded = digit;
             return fuelNeeded;
