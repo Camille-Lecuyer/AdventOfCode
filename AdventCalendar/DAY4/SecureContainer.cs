@@ -26,6 +26,7 @@ namespace AdventCalendar.DAY4
             bool checkTwo = false;
             bool checkThree = false;
             bool checkFour = false;
+
             char[] arrayPassword = password.ToString().ToCharArray();
             if(arrayPassword.Length == 6)
             {
@@ -43,7 +44,7 @@ namespace AdventCalendar.DAY4
             {
                 checkFour = true;
             }
-
+            
             if(checkOne && checkTwo && checkThree && checkFour)
             {
                 return true;

@@ -1,5 +1,6 @@
 ﻿using AdventCalendar.DAY2;
 using AdventCalendar.DAY4;
+using AdventCalendar.DAY8;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,11 +13,9 @@ namespace AdventCalendar
     {
         static void Main(string[] args)
         {
-            var x = new SecureContainer();
-
-            Console.WriteLine(x.goThroughPassWord());
+            var x = new MarsRover();
+            Console.WriteLine(x.solvePart1());
             Console.ReadKey();
-            
             /*
              * Day 1 Main
             var x = new Text();

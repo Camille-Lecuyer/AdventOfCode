@@ -48,6 +48,7 @@
     <Compile Include="DAY2\MoonGravity.cs" />
     <Compile Include="DAY3\Class1.cs" />
     <Compile Include="DAY4\SecureContainer.cs" />
+    <Compile Include="DAY8\MarsRover.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DAY1\Text.cs" />
@@ -55,6 +56,8 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DAY8\Data.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
